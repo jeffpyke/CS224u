@@ -1,0 +1,1 @@
+In this project we investigate the problem of hate speech classification, and perform two baselines on a labeled dataset of tweets. We attempt to reproduce the results of the 2017 paper Automated Hate Speech Detection and the Problem of Offensive Language.
